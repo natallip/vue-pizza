@@ -1,0 +1,454 @@
+[
+  [
+    {
+      "id": 1,
+      "category": "pizza",
+      "img": "pizza1.jpeg",
+      "title": "Пицца из половинок",
+      "composition": "Соберите свою пиццу 35 см с двумя разными вкусами",
+      "size": [2],
+      "dough": [1, 2],
+      "ingredients": [],
+      "info": {
+        "energyValue": "252,8",
+        "protein": "9,2",
+        "fats": "6,8",
+        "carbohydrates": "36,8"
+      }
+    },
+    {
+      "id": 2,
+      "category": "pizza",
+      "img": "pizza2.jpeg",
+      "title": "Овощи и грибы",
+      "composition": "Итальянские травы, томатный соус, томаты, кубики брынзы, маслины, красный лук, моцарелла, шампиньоны",
+      "size": [1, 2, 3],
+      "dough": [1, 2],
+      "ingredients": [5, 3, 7],
+      "info": {
+        "energyValue": "274,9",
+        "protein": "11,4",
+        "fats": "12,4",
+        "carbohydrates": "27,6"
+      }
+    },
+    {
+      "id": 3,
+      "category": "pizza",
+      "img": "pizza3.jpg",
+      "title": "Пицца-пирог",
+      "composition": "Ананасы, брусника, сгущенное молоко",
+      "size": [1, 2, 3],
+      "dough": [1, 2],
+      "ingredients": [],
+      "info": {
+        "energyValue": "200,9",
+        "protein": "6,5",
+        "fats": "5,2",
+        "carbohydrates": "30,8"
+      }
+    },
+    {
+      "id": 4,
+      "category": "pizza",
+      "img": "pizza4.jpeg",
+      "title": "Цезарь",
+      "composition": "Свежие листья салата айсберг, цыпленок, томаты черри, моцарелла",
+      "size": [1, 2, 3],
+      "dough": [1, 2],
+      "ingredients": [1, 7, 4],
+      "info": {
+        "energyValue": "252,8",
+        "protein": "9,2",
+        "fats": "6,8",
+        "carbohydrates": "36,8"
+      }
+    },
+    {
+      "id": 5,
+      "category": "pizza",
+      "img": "pizza5.jpeg",
+      "title": "Нежный лосось",
+      "composition": "Лосось, томаты черри, соус песто, моцарелла, соус альфредо",
+      "size": [1, 2, 3],
+      "dough": [1, 2],
+      "ingredients": [1, 3, 2],
+      "info": {
+        "energyValue": "242,4",
+        "protein": "10,7",
+        "fats": "9,8",
+        "carbohydrates": "26,8"
+      }
+    },
+    {
+      "id": 6,
+      "category": "pizza",
+      "img": "pizza6.jpg",
+      "title": "Пепперони фреш",
+      "composition": "Томаты, пепперони, моцарелла, томатный соус",
+      "size": [1, 2, 3],
+      "dough": [1, 2],
+      "ingredients": [1, 6, 3],
+      "info": {
+        "energyValue": "282,4",
+        "protein": "10,7",
+        "fats": "19,8",
+        "carbohydrates": "26,1"
+      }
+    },
+    {
+      "id": 7,
+      "category": "pizza",
+      "img": "pizza7.jpg",
+      "title": "Ветчина и сыр",
+      "composition": "Моцарелла, ветчина, соус альфредо",
+      "size": [1, 2, 3],
+      "dough": [1, 2],
+      "ingredients": [1, 7, 4],
+      "info": {
+        "energyValue": "241,2",
+        "protein": "8,1",
+        "fats": "9,8",
+        "carbohydrates": "31"
+      }
+    },
+    {
+      "id": 8,
+      "category": "pizza",
+      "img": "pizza8.jpeg",
+      "title": "Ветчина и грибы",
+      "composition": "Томатный соус, моцарелла, ветчина, шампиньоны",
+      "size": [1, 2, 3],
+      "dough": [1, 2],
+      "ingredients": [1, 3, 4],
+      "info": {
+        "energyValue": "241,2",
+        "protein": "8,1",
+        "fats": "9,8",
+        "carbohydrates": "31"
+      }
+    },
+    {
+      "id": 9,
+      "category": "pizza",
+      "img": "pizza9.jpg",
+      "title": "Маргарита",
+      "composition": "Итальянские травы, томатный соус, томаты, моцарелла",
+      "size": [1, 2, 3],
+      "dough": [1, 2],
+      "ingredients": [1, 3, 2],
+      "info": {
+        "energyValue": "201,2",
+        "protein": "8,1",
+        "fats": "6,3",
+        "carbohydrates": "26,5"
+      }
+    },
+    {
+      "id": 10,
+      "category": "pizza",
+      "img": "pizza10.jpg",
+      "title": "Гавайская",
+      "composition": "Ананасы, томатный соус, цыпленок, моцарелла",
+      "size": [1, 2, 3],
+      "dough": [1, 2],
+      "ingredients": [1, 6, 4],
+      "info": {
+        "energyValue": "209,2",
+        "protein": "9,1",
+        "fats": "6,3",
+        "carbohydrates": "29,5"
+      }
+    },
+    {
+      "id": 11,
+      "category": "pizza",
+      "img": "pizza11.jpg",
+      "title": "Четыре сезона",
+      "composition": "Итальянские травы, томатный соус, томаты, пикантная пепперони, кубики брынзы, ветчина, шампиньоны",
+      "size": [1, 2, 3],
+      "dough": [1, 2],
+      "ingredients": [],
+      "info": {
+        "energyValue": "225,5",
+        "protein": "9,1",
+        "fats": "8,2",
+        "carbohydrates": "26,5"
+      }
+    },
+    {
+      "id": 12,
+      "category": "pizza",
+      "img": "pizza12.jpg",
+      "title": "Четыре сыра",
+      "composition": "Сливочный соус, сыры пармезан и чеддер, сыр блю чиз, моцарелла",
+      "size": [1, 2, 3],
+      "dough": [1, 2],
+      "ingredients": [1, 6, 5],
+      "info": {
+        "energyValue": "256,2",
+        "protein": "11,1",
+        "fats": "9,3",
+        "carbohydrates": "29,5"
+      }
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "category": "snacks",
+      "img": "snacks1.jpeg",
+      "title": "Острый Додстер",
+      "countText": "1 шт",
+      "composition": "Горячая закуска с острым цыпленком, перцем халапеньо, томатами, моцареллой и соусом барбекю в тонкой пшеничной лепешке",
+      "price": 4.2
+    },
+    {
+      "id": 2,
+      "category": "snacks",
+      "img": "snacks2.jpeg",
+      "title": "Додстер Чипотле",
+      "countText": "1 шт",
+      "composition": "Горячая закуска с пикантным соусом чипотле из копченых перчиков, цыплёнком, томатами, моцареллой в тонкой пшеничной лепешке",
+      "price": 4.2
+    },
+    {
+      "id": 3,
+      "category": "snacks",
+      "img": "snacks3.jpeg",
+      "title": "Грибной Стартер",
+      "countText": "1 шт",
+      "composition": "Горячая закуска с шампиньонами, моцареллой и соусом ранч в тонкой пшеничной лепешке",
+      "price": 5.5
+    },
+    {
+      "id": 4,
+      "category": "snacks",
+      "img": "snacks4.jpeg",
+      "title": "Мясной Стартер",
+      "countText": "1 шт",
+      "composition": "Горячая закуска с митболами из говядины, томатами, моцареллой и пикантным соусом чипотле в тонкой пшеничной лепешке",
+      "price": 5.5
+    },
+    {
+      "id": 5,
+      "category": "snacks",
+      "img": "snacks5.jpeg",
+      "title": "Паста Карбонара",
+      "countText": "1 шт",
+      "composition": "Паста, бекон, сыры чеддер, пармезан и моцарелла, томаты, соус альфредо, итальянские травы, чеснок",
+      "price": 8
+    },
+    {
+      "id": 6,
+      "category": "snacks",
+      "img": "snacks6.jpeg",
+      "title": "Паста Четыре сыра",
+      "countText": "1 шт",
+      "composition": "Паста, сыры блю чиз, чеддер, пармезан и моцарелла, соус альфредо",
+      "price": 8
+    },
+    {
+      "id": 7,
+      "category": "snacks",
+      "img": "snacks7.jpeg",
+      "title": "Картофельные оладьи, 8 шт",
+      "countText": "8 шт",
+      "composition": "Запеченные оладьи из картофеля в панировке, 8 шт",
+      "price": 6.2
+    },
+    {
+      "id": 8,
+      "category": "snacks",
+      "img": "snacks8.jpeg",
+      "title": "Куриные кусочки 150 гр",
+      "countText": "150 гр",
+      "composition": "Кусочки куриного филе в хрустящей панировке",
+      "price": 6.8
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "category": "desserts",
+      "img": "desserts1.jpeg",
+      "title": "Блинчики с малиной, 2 шт",
+      "countText": "2 шт",
+      "composition": "Воздушные блинчики с малиновой начинкой, приготовленные в печи",
+      "price": 4.5
+    },
+    {
+      "id": 2,
+      "category": "desserts",
+      "img": "desserts2.jpeg",
+      "title": "Рулетики с яблоками, 16 шт",
+      "countText": "16 шт",
+      "composition": "Горячие сладкие рулетики с яблоками, нежным соусом пломбир, корицей и лепестками миндаля",
+      "price": 7.3
+    },
+    {
+      "id": 3,
+      "category": "desserts",
+      "img": "desserts3.jpeg",
+      "title": "Яблочный пирог",
+      "countText": "1 шт",
+      "composition": "Десерт из песочного теста с яблочной начинкой",
+      "price": 5.2
+    },
+    {
+      "id": 4,
+      "category": "desserts",
+      "img": "desserts4.jpeg",
+      "title": "Чизкейк",
+      "countText": "1 шт",
+      "composition": "Классический американский творожный десерт",
+      "price": 5
+    },
+    {
+      "id": 5,
+      "category": "desserts",
+      "img": "desserts5.jpeg",
+      "title": "Сырники с малиновым вареньем, 2 шт",
+      "countText": "2 шт",
+      "composition": "Нежные сырники, приготовленные в печи, с малиновым вареньем 2 шт",
+      "price": 4.5
+    },
+    {
+      "id": 6,
+      "category": "desserts",
+      "img": "desserts6.jpeg",
+      "title": "Сырники, стандартная порция, 2 шт",
+      "countText": "2 шт",
+      "composition": "Нежные сырники, приготовленные в печи, 2 шт",
+      "price": 4
+    },
+    {
+      "id": 7,
+      "category": "desserts",
+      "img": "desserts7.jpeg",
+      "title": "Фонданы, 2 шт",
+      "countText": "2 шт",
+      "composition": "Два десерта с хрустящей корочкой и топлёной шоколадной начинкой",
+      "price": 9.6
+    },
+    {
+      "id": 8,
+      "category": "desserts",
+      "img": "desserts8.jpeg",
+      "title": "Маффин Три шоколада",
+      "countText": "2 шт",
+      "composition": "Десерт из натурального какао, нежной начинки на основе шоколада и кубиков белого и молочного шоколада",
+      "price": 3.2
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "category": "drinks",
+      "img": "drinks1.jpg",
+      "title": "Pepsi",
+      "countText": "0,5 л",
+      "price": 2.7
+    },
+    {
+      "id": 2,
+      "category": "drinks",
+      "img": "drinks2.jpg",
+      "title": "7Up",
+      "countText": "0,5 л",
+      "price": 2.7
+    },
+    {
+      "id": 3,
+      "category": "drinks",
+      "img": "drinks3.jpg",
+      "title": "Сок Я Апельсин",
+      "countText": "0,95 л",
+      "price": 3.8
+    },
+    {
+      "id": 4,
+      "category": "drinks",
+      "img": "drinks4.jpg",
+      "title": "Сок Я Яблоко",
+      "countText": "0,95 л",
+      "price": 3.8
+    },
+    {
+      "id": 5,
+      "category": "drinks",
+      "img": "drinks5.jpeg",
+      "title": "Кофе Капучино",
+      "countText": "0,5 л",
+      "price": 4.2
+    },
+    {
+      "id": 6,
+      "category": "drinks",
+      "img": "drinks6.jpeg",
+      "title": "Какао с маршмеллоу",
+      "countText": "0,5 л",
+      "price": 3.8
+    },
+    {
+      "id": 7,
+      "category": "drinks",
+      "img": "drinks7.jpeg",
+      "title": "Пряный латте",
+      "countText": "0,5 л",
+      "price": 4.2
+    },
+    {
+      "id": 8,
+      "category": "drinks",
+      "img": "drinks8.jpeg",
+      "title": "Кофе Ореховый латте",
+      "countText": "0,5 л",
+      "price": 4.5
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "img": "bonus1.jpeg",
+      "title": "Без мяса? Здесь!",
+      "text": "Самое время попробовать «Сырную» пиццу, «Маргариту», пиццу «Овощи и грибы», Пасту Четыре сыра, Грибной Стартер, Рулетики с сыром, Картофель из печи или Греческий салат. Выберите свой вкус!",
+      "link": "/"
+    },
+    {
+      "id": 2,
+      "img": "bonus2.jpeg",
+      "title": "Цыпленок Блю Чиз",
+      "text": "Пицца для настоящих гурманов. Оцените изысканное сочетание цыпленка, сочных томатов и двух видов сыра — блю чиза и моцареллы. Нежный соус альфредо мягко дополняет главные ингредиенты.",
+      "link": "/"
+    },
+    {
+      "id": 3,
+      "img": "bonus3.jpeg",
+      "title": "Сырный бортик",
+      "text": "Сыра много не бывает. Добавьте в бортик яркий сыр чеддер и наслаждайтесь любимой пиццей до последней крошки",
+      "link": "/"
+    },
+    {
+      "id": 4,
+      "img": "bonus4.jpeg",
+      "title": "Чиззи чеддер",
+      "text": "Скажите: «Чи-и-и-из!» Чеддер — это яркий сыр с насыщенным вкусом, и его много в новой пицце «Чиззи чеддер». В составе также ветчина, сладкий перчик и моцарелла. Попробуйте!",
+      "link": "/"
+    },
+    {
+      "id": 5,
+      "img": "bonus5.jpeg",
+      "title": "Акция для клиентов Mastercard",
+      "text": "Скидка 20% на все пиццы для клиентов Mastercard. Акция не суммируется с другими специальными предложениями нашей пиццерии.",
+      "link": "/"
+    },
+    {
+      "id": 6,
+      "img": "bonus6.jpeg",
+      "title": "Какао с маршмеллоу",
+      "text": "Вкусно как в детстве. Закажите яркий сладкий напиток с ванильными маршмеллоу и порадуйтесь знакомому шоколадному вкусу. Понравится взрослым и детям.",
+      "link": "/"
+    }
+  ]
+]
